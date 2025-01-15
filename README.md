@@ -45,5 +45,5 @@ To replicate the analysis, execute the scripts in the following order:
 ### Outputs
 
 - **Visualizations**: Scatter plots, histograms, and feature importance charts will appear in the RStudio Plots pane.
-- **Statistical Outputs**: Model summaries, evaluation metrics (MSE, RMSE, $R^2$), and coefficients will be displayed in the RStudio Console.
+- **Statistical Outputs**: Model summaries, evaluation metrics (MSE, RMSE, $R^2$) and other statistical outputs will be displayed in the RStudio Console.
 - **Saved Data**: Cleaned and transformed datasets will be saved as CSV files in the project directory.
